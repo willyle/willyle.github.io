@@ -1,0 +1,46 @@
+#logo{
+	border: solid 1px black;
+	width: 300px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+nav{
+	border: solid 1px black;
+	width: 300px;
+	margin: 0 auto;
+	text-align:center;
+}
+
+nav ul{
+	list-style-type: none; 
+	padding-left: 0px;
+}
+
+nav ul li{
+	text-align: left;
+	display: inline-block;
+}
+
+#information{
+	border: solid 1px red;
+	width: 80%;
+	min-height: 400px;
+	margin: 0 auto;
+}
+
+#personal_photo{
+	border: solid 1px green;
+	width: 40%;
+	height: 300px;
+	margin: calc(5% - 1px);
+	float: left;
+}
+
+#about{
+	border: solid 1px green;
+	width: 40%;
+	height: 300px;
+	margin: calc(5% - 1px);
+	float: left;
+}
